@@ -1,0 +1,22 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": ["bun .claude/hooks/lock.ts"]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": ["bun .claude/hooks/lock.ts"]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": ["bun .claude/hooks/lock.ts"]
+      }
+    ]
+  }
+}

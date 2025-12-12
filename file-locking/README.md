@@ -1,4 +1,4 @@
-# You run 2 agents. Both edit config.ts. One overwrites the other.
+# [Hook] You run 2 agents. Both edit config.ts. One overwrites the other.
 
 Your changes are gone.
 

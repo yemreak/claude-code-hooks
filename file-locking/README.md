@@ -100,7 +100,7 @@ Agent A                              Agent B
 │                          LOCK FORMAT                            │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  .cache/claude/locks/                                           │
+│  {project}/.cache/claude/locks/                                 │
 │  └── {base64url(file_path)}.lock                                │
 │                                                                 │
 │  Content: {session_id}|{timestamp}                              │

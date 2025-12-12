@@ -146,7 +146,7 @@ Agent A                              Agent B
 
 ```bash
 mkdir -p .claude/hooks
-curl -o .claude/hooks/lock.ts https://raw.githubusercontent.com/.../lock.ts
+curl -o .claude/hooks/lock.ts https://raw.githubusercontent.com/yemreak/claude-code-hooks/main/file-locking/lock.ts
 ```
 
 `.claude/settings.json`:

@@ -1,5 +1,7 @@
 # [Hook] You run 2 agents. Both edit config.ts. One overwrites the other.
 
+[r/ClaudeAI](https://reddit.com/r/ClaudeAI/comments/1pkrcsd/) • [r/ClaudeCode](https://reddit.com/r/ClaudeCode/comments/1pkrct3/)
+
 Your changes are gone.
 
 ```

@@ -162,4 +162,4 @@ curl -o .claude/hooks/lock.ts https://raw.githubusercontent.com/yemreak/claude-c
 
 ---
 
-If you've built something similar, drop your implementation in the comments.
+[yemreak/claude-code-hooks • GitHub](https://github.com/yemreak/claude-code-hooks) | If you've built something similar, drop your implementation in the comments.

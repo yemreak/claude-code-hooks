@@ -7,3 +7,4 @@ I wrote about [why hooks scale better than prompts and MCPs](https://www.reddit.
 | Hook | Problem |
 |------|---------|
 | [file-locking](file-locking/) | 2 agents edit same file, one overwrites the other |
+| [do-not-edit](do-not-edit/) | You mark a file "DO NOT EDIT", Claude edits it anyway |

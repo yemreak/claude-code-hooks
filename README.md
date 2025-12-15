@@ -4,9 +4,9 @@ I wrote about [why hooks scale better than prompts and MCPs](https://www.reddit.
 
 ---
 
-| Hook | Problem |
-|------|---------|
-| [file-locking](file-locking/) | 2 agents edit same file, one overwrites the other |
-| [do-not-edit](do-not-edit/) | You mark a file "DO NOT EDIT", Claude edits it anyway |
-| [redirect](redirect/) | You say "use X, not Y". Next session: Y again |
-| [first-write](first-write/) | Agent writes 10 files before you see what it's doing |
+| Hook | Problem | Posted |
+|------|---------|--------|
+| [file-locking](file-locking/) | 2 agents edit same file, one overwrites the other | [r/ClaudeAI](https://reddit.com/r/ClaudeAI/comments/1pkrcsd/) • [r/ClaudeCode](https://reddit.com/r/ClaudeCode/comments/1pkrct3/) |
+| [do-not-edit](do-not-edit/) | You mark a file "DO NOT EDIT", Claude edits it anyway | not posted |
+| [redirect](redirect/) | You say "use X, not Y". Next session: Y again | not posted |
+| [first-write](first-write/) | Agent writes 10 files before you see what it's doing | not posted |

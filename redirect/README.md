@@ -3,10 +3,10 @@ scheduledFor: 2025-12-16
 reddit:
   ClaudeAI:
     flair: Coding
-    url: null
+    url: https://www.reddit.com/r/ClaudeAI/comments/1pnmb9p/hook_you_say_use_x_not_y_next_session_y_again/
   claudecode:
     flair: Tutorial / Guide
-    url: null
+    url: https://www.reddit.com/r/ClaudeCode/comments/1pnmbbc/hook_you_say_use_x_not_y_next_session_y_again/
 ---
 
 # [Hook] You say "use X, not Y". Next session: Y again.

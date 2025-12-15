@@ -1,3 +1,13 @@
+---
+reddit:
+  ClaudeAI:
+    flair: Coding
+    url: null
+  claudecode:
+    flair: Tutorial / Guide
+    url: null
+---
+
 # [Hook] Agent writes 10 files before you see what it's doing.
 
 You said "implement feature". Agent wrote 10 files. Hope it's right.

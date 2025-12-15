@@ -1,3 +1,13 @@
+---
+reddit:
+  ClaudeAI:
+    flair: Coding
+    url: https://www.reddit.com/r/ClaudeAI/comments/1pn7n7q/hook_you_mark_a_file_do_not_edit_claude_edits_it/
+  claudecode:
+    flair: Tutorial / Guide
+    url: https://www.reddit.com/r/ClaudeCode/comments/1pn7n8u/hook_you_mark_a_file_do_not_edit_claude_edits_it/
+---
+
 # [Hook] You mark a file "DO NOT EDIT". Claude edits it anyway.
 
 Your critical code is gone.

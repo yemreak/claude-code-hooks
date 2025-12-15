@@ -1,3 +1,13 @@
+---
+reddit:
+  ClaudeAI:
+    flair: Coding
+    url: null
+  claudecode:
+    flair: Tutorial / Guide
+    url: null
+---
+
 # [Hook] You say "use X, not Y". Next session: Y again.
 
 Prompts don't persist. Hooks do.

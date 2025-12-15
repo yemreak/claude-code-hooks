@@ -1,6 +1,14 @@
-# [Hook] You run 2 agents. Both edit config.ts. One overwrites the other.
+---
+reddit:
+  ClaudeAI:
+    flair: Coding
+    url: https://reddit.com/r/ClaudeAI/comments/1pkrcsd/
+  claudecode:
+    flair: Tutorial / Guide
+    url: https://reddit.com/r/claudecode/comments/1pkrct3/
+---
 
-[r/ClaudeAI](https://reddit.com/r/ClaudeAI/comments/1pkrcsd/) • [r/ClaudeCode](https://reddit.com/r/ClaudeCode/comments/1pkrct3/)
+# [Hook] You run 2 agents. Both edit config.ts. One overwrites the other.
 
 Your changes are gone.
 

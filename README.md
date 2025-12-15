@@ -8,5 +8,5 @@ I wrote about [why hooks scale better than prompts and MCPs](https://www.reddit.
 |------|---------|
 | [file-locking](file-locking/) | 2 agents edit same file, one overwrites the other |
 | [do-not-edit](do-not-edit/) | You mark a file "DO NOT EDIT", Claude edits it anyway |
-| [redirect](redirect/) | You say "use make dev", next session: xcodebuild again |
+| [redirect](redirect/) | You say "use X, not Y". Next session: Y again |
 | [first-write](first-write/) | Agent writes 10 files before you see what it's doing |

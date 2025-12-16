@@ -1,4 +1,5 @@
 ---
+scheduledFor: 2025-12-18
 reddit:
   ClaudeAI:
     flair: Coding

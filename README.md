@@ -11,3 +11,4 @@ I wrote about [why hooks scale better than prompts and MCPs](https://www.reddit.
 | [redirect](redirect/) | You say "use X, not Y". Next session: Y again | [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1pnmb9p/hook_you_say_use_x_not_y_next_session_y_again/) • [r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1pnmbbc/hook_you_say_use_x_not_y_next_session_y_again/) |
 | [first-write](first-write/) | Agent writes 10 files before you see what it's doing | not posted |
 | [ts-typecheck](ts-typecheck/) | Agent leaves type errors. You find out later | not posted |
+| [swift-typecheck](swift-typecheck/) | Agent leaves Swift build errors. You find out later | not posted |
